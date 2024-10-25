@@ -1,4 +1,4 @@
-### Hi there 👋 My Name is Connor
+### Hi there 👋 My Name is Geddes
 
 <!--
 **OblivionBC/OblivionBC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
