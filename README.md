@@ -6,9 +6,9 @@ Outside of work and studies, I love exploring game development and web developme
 
 # 🔧 Areas of Interest:
 - Graph Databases & Distributed Systems
-- C++ / Java
+- C++ / Java / Python
 - Game Development (Unreal Engine)
-- Fullstack Web Development (React, TypeScript, Node.js)
+- Fullstack Web Development (React, Express.js)
 
 
 # 💻 Tech Stack:
