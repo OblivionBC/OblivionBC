@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Connor | Graph Database Engineer Intern @ Aerospike| UBC Computer Science
+## 👋 Hi, I'm Connor | Graph Database Engineer Intern @ Aerospike | UBC Computer Science
 
 <div align="center">
   <a href="https://www.linkedin.com/in/connor-hengstler-097199252/" target="_blank">
