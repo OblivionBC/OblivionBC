@@ -1,4 +1,4 @@
-## Connor Hengstler | Game Design Intern @ EA | SWE @ Aerospike | UBC Computer Science
+## Connor Hengstler | Software Developer 2 @ UBC EML | Prev Game Design Intern @ EA | Prev SWE @ Aerospike | UBC Computer Science
 
 <div align="center">
   <a href="https://www.linkedin.com/in/connor-hengstler-097199252/" target="_blank">
